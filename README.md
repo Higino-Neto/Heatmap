@@ -1,4 +1,4 @@
-# Heatmap
+# React Heatmap
 
 A simple heatmap github-like template showing how to use **@uiw/react-heat-map** to render a GitHub-style contribution heatmap in React with custom colors and styling.
 
